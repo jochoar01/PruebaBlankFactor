@@ -1,0 +1,5 @@
+runner\Runner.class
+pages\ArticlesBlankFactorPage.class
+pages\BlankFactorpage.class
+util\BaseSelenium.class
+seleniumgluecode\BlankFactorTest.class

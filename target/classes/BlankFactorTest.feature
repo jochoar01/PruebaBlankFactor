@@ -1,7 +1,7 @@
 Feature: Validacion Facebook
 
   Como usuario quiero leer chistes de Testers
-
+  @FullCheckOutHappyPath
   Scenario Outline: Ingresar a la categoria comics desde la pantalla home
 
     Given  User can navegate to principal Blankfactor Page
